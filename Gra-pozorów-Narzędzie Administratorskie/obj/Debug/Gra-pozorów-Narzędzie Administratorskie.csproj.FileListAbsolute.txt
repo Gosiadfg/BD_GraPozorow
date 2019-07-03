@@ -1,0 +1,19 @@
+C:\Users\umlau\source\repos\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\bin\Debug\Gra-pozorów-Narzędzie Administratorskie.exe.config
+C:\Users\umlau\source\repos\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\bin\Debug\Gra-pozorów-Narzędzie Administratorskie.exe
+C:\Users\umlau\source\repos\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\bin\Debug\Gra-pozorów-Narzędzie Administratorskie.pdb
+C:\Users\umlau\source\repos\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra-pozorów-Narzędzie Administratorskie.csprojResolveAssemblyReference.cache
+C:\Users\umlau\source\repos\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra_pozorów_Narzędzie_Administratorskie.Form1.resources
+C:\Users\umlau\source\repos\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra_pozorów_Narzędzie_Administratorskie.Properties.Resources.resources
+C:\Users\umlau\source\repos\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra-pozorów-Narzędzie Administratorskie.csproj.GenerateResource.Cache
+C:\Users\umlau\source\repos\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra-pozorów-Narzędzie Administratorskie.csproj.CoreCompileInputs.cache
+C:\Users\umlau\source\repos\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra-pozorów-Narzędzie Administratorskie.exe
+C:\Users\umlau\source\repos\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra-pozorów-Narzędzie Administratorskie.pdb
+C:\Users\G\Desktop\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\bin\Debug\Gra-pozorów-Narzędzie Administratorskie.exe.config
+C:\Users\G\Desktop\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra-pozorów-Narzędzie Administratorskie.exe
+C:\Users\G\Desktop\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra-pozorów-Narzędzie Administratorskie.pdb
+C:\Users\G\Desktop\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\bin\Debug\Gra-pozorów-Narzędzie Administratorskie.exe
+C:\Users\G\Desktop\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\bin\Debug\Gra-pozorów-Narzędzie Administratorskie.pdb
+C:\Users\G\Desktop\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra-pozorów-Narzędzie Administratorskie.csprojResolveAssemblyReference.cache
+C:\Users\G\Desktop\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra_pozorów_Narzędzie_Administratorskie.Form1.resources
+C:\Users\G\Desktop\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra_pozorów_Narzędzie_Administratorskie.Properties.Resources.resources
+C:\Users\G\Desktop\Gra-pozorów-Narzędzie Administratorskie\Gra-pozorów-Narzędzie Administratorskie\obj\Debug\Gra-pozorów-Narzędzie Administratorskie.csproj.GenerateResource.Cache

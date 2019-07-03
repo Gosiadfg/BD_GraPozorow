@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="grapozorow" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=GOSIA\SQLEXPRESS;Initial Catalog=grapozorow;Integrated Security=True" SettingsObjectName="Gra_pozorów_Narzędzie_Administratorskie.Properties.Settings" SettingsPropertyName="grapozorowConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.V_HasloGracza" Member="V_HasloGraczas">
+    <Type Name="V_HasloGracza">
+      <Column Name="Haslo" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="LiczbaGraczy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Gracz" Member="Graczs">
+    <Type Name="Gracz">
+      <Column Name="GraczID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nazwa" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Haslo" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.DeleteGracz" Method="DeleteGracz">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="nazwa" Type="System.String" DbType="VarChar(255)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.InsertGracz" Method="InsertGracz">
+    <Parameter Name="nazwa" Type="System.String" DbType="VarChar(255)" />
+    <Parameter Name="haslo" Type="System.String" DbType="VarChar(255)" />
+    <Parameter Name="email" Type="System.String" DbType="VarChar(255)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.UpdateGracz" Method="UpdateGracz">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="nazwa" Type="System.String" DbType="VarChar(255)" />
+    <Parameter Name="nazwastara" Type="System.String" DbType="VarChar(255)" />
+    <Parameter Name="haslo" Type="System.String" DbType="VarChar(255)" />
+    <Parameter Name="email" Type="System.String" DbType="VarChar(255)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
